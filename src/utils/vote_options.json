@@ -1,0 +1,32 @@
+[
+  {
+    "emotionId": "1",
+    "score": 1,
+    "image": "😇 1分"
+  },
+  {
+    "emotionId": "2",
+    "score": 2,
+    "image": "😅 2分"
+  },
+  {
+    "emotionId": "3",
+    "score": 3,
+    "image": "🤣 3分"
+  },
+  {
+    "emotionId": "4",
+    "score": 4,
+    "image": "😂 4分"
+  },
+  {
+    "emotionId": "5",
+    "score": 5,
+    "image": "😀 5分"
+  },
+  {
+    "emotionId": "6",
+    "score": 6,
+    "image": "😊 6分"
+  }
+]
